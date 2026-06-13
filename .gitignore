@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GP
+*.parquet
+/data
+test.py
+melspec.npz
