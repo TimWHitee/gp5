@@ -222,3 +222,7 @@ __marimo__/
 /data
 test.py
 melspec.npz
+tracks.csv
+/wandb
+/venv2
+/unreleased
