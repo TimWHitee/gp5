@@ -227,3 +227,5 @@ tracks.csv
 /venv2
 /unreleased
 /models
+/research_notebooks/wandb
+features.csv
